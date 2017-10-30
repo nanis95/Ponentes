@@ -1,0 +1,42 @@
+Metodología temporal para la recuperación de áreas perdidas en imágenes satelitales MOD09GA;Auditorio Madre Caridad-Universidad Mariana;1;1 Nov-2:00 p.m
+Factores asociados al desempeño académico en las pruebas Saber Pro de los estudiantes de la Universidad de Nariño;Auditorio Madre Caridad-Universidad Mariana;1;1 Nov-2:00 p.m
+Integración de Android con un WebService para el manejo dinámico de datos espaciales del SETP de Pasto;Auditorio Madre Caridad-Universidad Mariana;1;1 Nov-2:00 p.m
+Identificación de patrones de desempeño académico en comunicación escrita en las pruebas Saber Pro de los estudiantes de la Institución Universitaria CESMAG;Auditorio Madre Caridad-Universidad Mariana;1;1 Nov-2:00 p.m
+Delitos informáticos en las redes sociales y sus implicaciones jurídicas;Auditorio Madre Caridad-Universidad Mariana;1;1 Nov-2:00 p.m
+Propuesta basada en Scrum, Peopleware y Software Libre: Caso centro de Informática, Universidad de Nariño;Auditorio Madre Caridad-Universidad Mariana;1;1 Nov-2:00 p.m
+Una aplicación de PostGIS en la construcción de un visor cartográfico inteligente de direcciones urbanas y sitios de interés del Municipio de Pasto;Auditorio Jesús de Nazareth-Universidad Mariana;2;1 Nov-2:00 p.m
+Caracterización de la web Colombia mediante la aplicación de la herramienta Jwire;Auditorio Jesús de Nazareth-Universidad Mariana;2;1 Nov-2:00 p.m
+Algoritmia como estrategia didáctica en procesos de entrada/salida en automatización contable;Auditorio Jesús de Nazareth-Universidad Mariana;2;1 Nov-2:00 p.m
+El análisis multidimensional una herramienta tecnológica para las oficinas de egresados;Auditorio Jesús de Nazareth-Universidad Mariana;2;1 Nov-2:00 p.m
+Determinación de humedad en un cultivo de fresa bajo invernadero por visión artificial;Auditorio Jesús de Nazareth-Universidad Mariana;2;1 Nov-2:00 p.m
+Evaluación de la capacidad de programación del software development kit - SDK integrado al controlador leap motion para el desarrollo de aplicaciones interactivas para niños con discapacidad auditiva;Auditorio Jesús de Nazareth-Universidad Mariana;2;1 Nov-2:00 p.m
+Entorno colaborativo para el desarrollo de pensamiento algorítmico;Auditorio Madre Caridad-Universidad Mariana;3;1 Nov-4:30 p.m
+Renovación en la producción de pensamiento;Auditorio Madre Caridad-Universidad Mariana;3;1 Nov-4:30 p.m
+Impacto de las tecnologías de la información con comunidades indígenas de Guatemala;Auditorio Madre Caridad-Universidad Mariana;3;1 Nov-4:30 p.m
+Sistemas automatizados: Uso de información meteorológica en Cloud Computing como entradas sensóricas;Auditorio Jesús de Nazareth-Universidad Mariana;4;1 Nov-4:30 p.m
+Análisis del desempeño en la construcción de software basada en Equipos: Caso Universidad de Nariño;Auditorio Jesús de Nazareth-Universidad Mariana;4;1 Nov-4:30 p.m
+El software como una herramienta didáctica de las matemáticas aplicadas en la ingeniería;Auditorio Jesús de Nazareth-Universidad Mariana;4;1 Nov-4:30 p.m
+Desarrollo de una aplicación web para la simulación de fenómenos cinemáticos;Auditorio San Francisco 1-I.U. Cesmag;5;2 Nov-8:00 a.m
+Estudio comparativo de modelos de optimización de rutas de transporte aplicadas a la ruta alimentadora u-30 (universidades) del sistema masivo de transporte, transmetro;Auditorio San Francisco 1-I.U. Cesmag;5;2 Nov-8:00 a.m
+Inteligencia de negocios aplicada al análisis de los resultados en las pruebas Saber Pro de los estudiantes de la Institución Universitaria Colegio Mayor del Cauca;Auditorio San Francisco 1-I.U. Cesmag;5;2 Nov-8:00 a.m
+Comprensión de la lógica algorítmica mediante la programación de bloques;Auditorio San Francisco 1-I.U. Cesmag;5;2 Nov-8:00 a.m
+Narce Digital - Una herramienta de autodiagnóstico de problemas en adaptación escolar;Auditorio San Francisco 1-I.U. Cesmag;5;2 Nov-8:00 a.m
+DESTILA Digital - Software para análisis de datos de forma cualitativa utilizando la técnica de destilación de información;Auditorio San Francisco 1-I.U. Cesmag;5;2 Nov-8:00 a.m
+Aplicación móvil de acceso a servicios institucionales - App U-Móvil;Auditorio San Francisco 2-I.U. Cesmag;6;2 Nov-8:00 a.m
+Gestión del conocimiento en el entorno universitario: una aproximación;Auditorio San Francisco 2-I.U. Cesmag;6;2 Nov-8:00 a.m
+Herramienta lúdica de entorno web de la asignatura de inglés nivel A2.1;Auditorio San Francisco 2-I.U. Cesmag;6;2 Nov-8:00 a.m
+Cómo construir un ambiente estereoscópico utilizando XWindow System y un televisor 3D;Auditorio San Francisco 2-I.U. Cesmag;6;2 Nov-8:00 a.m
+Gamificación en el aprendizaje de la lectura en niños;Auditorio San Francisco 2-I.U. Cesmag;6;2 Nov-8:00 a.m
+El aseguramiento de la calidad de los requerimientos en la industria local del Software: Caso Pereiras;Auditorio San Francisco 2-I.U. Cesmag;6;2 Nov-8:00 a.m
+Nuevos escenarios en el desarrollo de software colaborativo;Auditorio San Francisco 1-I.U. Cesmag;7;2 Nov-2:00 p.m
+Factores problema que afectan la adopción de Scrum;Auditorio San Francisco 1-I.U. Cesmag;7;2 Nov-2:00 p.m
+Clasificación de las condiciones del suelo de arveja mediante un sistema computacional inteligente;Auditorio San Francisco 1-I.U. Cesmag;7;2 Nov-2:00 p.m
+Estado actual de las prácticas de seguridad y gestión de la información basada en la norma ISO 27799, en hospitales de la ciudad de San Juan de Pasto;Auditorio San Francisco 1-I.U. Cesmag;7;2 Nov-2:00 p.m
+Diseño base de datos para determinar áreas de interés geotérmico en México;Auditorio San Francisco 1-I.U. Cesmag;7;2 Nov-2:00 p.m
+Modelo de Servitización como estrategia de competitividad en Mipymes del sector TIC del Municipio de Pasto - Colombia;Auditorio San Francisco 1-I.U. Cesmag;7;2 Nov-2:00 p.m
+Motor de reglas de negocio soportado en RETE básico;Auditorio San Francisco 2-I.U. Cesmag;8;2 Nov-2:00 p.m
+Gestión de la información del consumo energético de computadores y CO2 generado;Auditorio San Francisco 2-I.U. Cesmag;8;2 Nov-2:00 p.m
+Análisis de los procesos de desarrollo de software en el Departamento de TI;Auditorio San Francisco 2-I.U. Cesmag;8;2 Nov-2:00 p.m
+Evaluación de herramientas de Software libre para la gestión documental en la Universidad de Nariño;Auditorio San Francisco 2-I.U. Cesmag;8;2 Nov-2:00 p.m
+Sistema automático de monitoreo de tráfico vehicular mediante técnicas de visión artificial;Auditorio San Francisco 2-I.U. Cesmag;8;2 Nov-2:00 p.m
+El papel de las herramientas de gestión de requisitos en el RQA;Auditorio San Francisco 2-I.U. Cesmag;8;2 Nov-2:00 p.m
